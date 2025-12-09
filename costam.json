@@ -1,0 +1,19 @@
+{
+  "lista":[
+    {
+      "nazwa":"costam",
+      "opis":"costamcostam",
+      "zdjecie":"https://m.media-amazon.com/images/S/pv-target-images/7c0ff5a71f6d77058e4ab671204c5bea2618a7add82b364cc43e37e460d4249e.jpg"
+    },
+    {
+      "nazwa":"jeszcze cos",
+      "opis":"jeszcze cos cos tam",
+      "zdjecie":"https://www.twojamuszyna.pl/wp-content/uploads/2018/07/Szczyrbskie-Jezioro-Strbske-Pleso-zdjecie.jpg?v=1753301347"
+    },
+    {
+      "nazwa":"i znowu cos tam",
+      "opis":"znowu cos tam jesczze cos",
+      "zdjecie":"https://v.wpimg.pl/MjAwODFmYgsgFTl3aRZvHmNNbS0vT2FINFV1Zmlbf1M5RHpwaQskBiQFKjQpQyoYNAcuMzZDPQZuFj8taRt8RSUePDQqDDRFJBotISJCKFp4RnknIF5gXHQReGlyWn5abBUpdXVALFJ5Tn10dlV8DHhFbTk"
+    }
+  ]
+}
